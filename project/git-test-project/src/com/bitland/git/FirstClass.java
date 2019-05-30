@@ -6,4 +6,9 @@ public class FirstClass {
         System.out.println("git 伏羲八卦，乾坤无量。");
         System.out.println("git 世事如棋，乾坤莫测，笑尽英雄。");
     }
+
+    public  void test(){
+        int a = 0;
+        a += 10;
+    }
 }
